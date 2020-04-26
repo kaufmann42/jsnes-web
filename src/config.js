@@ -85,7 +85,7 @@ const config = {
       name: "castlevania",
       description: <span>Good luck...</span>,
       url:
-        "https://cdn.jsdelivr.net/gh/kaufmann42/jsnes-web@master/public/roms/castlevania/castlevania.nes",
+        "https://cdn.jsdelivr.net/gh/kaufmann42/jsnes-web@master/roms/castlevania/castlevania.nes",
     },
   },
   GOOGLE_ANALYTICS_CODE: process.env.REACT_APP_GOOGLE_ANALYTICS_CODE,
